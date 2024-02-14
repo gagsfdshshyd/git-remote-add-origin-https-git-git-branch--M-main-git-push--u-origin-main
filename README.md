@@ -1,2 +1,1 @@
-# git-remote-add-origin-https-git-git-branch--M-main-git-push--u-origin-main
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+Discover, download, play games, and more with PC Game Pass via the Xbox app for Windows PC. Play hundreds of PC games for one low monthly price. Download and enjoy new games on day one like Starfield from Bethesda Softworks, as well as iconic franchises like Microsoft Flight Simulator, indie games, blockbusters, and more. Launch games at the click of a button, browse the catalog, view recommendations, and more. See what friends are playing and chat while you play together. Plus, purchase favorite titles, DLC, and add-ons from the Store – all in one place.*
